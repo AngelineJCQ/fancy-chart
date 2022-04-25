@@ -1,0 +1,270 @@
+company_id,type_of_company_id_ref,label,infrastructure_type_id,Primary topic
+ Baidu, Internet,Intel, Commercial partnership, Artificial Intelligence
+ Baidu, Internet,Ford, Commercial partnership, Artificial Intelligence
+ Baidu, Internet,"Qualcomm Technologies, Inc.", Commercial partnership, Artificial Intelligence
+ Baidu, Internet,Effie Awards , Commercial partnership, Artificial Intelligence
+ Baidu,,Ford partnership, Commercial partnership, Artificial Intelligence
+ Baidu,,Nvidia partnership, Commercial partnership, Artificial Intelligence
+ Baidu,,Intel partnership, Commercial partnership, Artificial Intelligence
+ Baidu,,Microsoft partnership, Commercial partnership, Artificial Intelligence
+ Baidu,,Sectigo partnership, Commercial partnership,
+ Baidu,,Snap Inc partnership, Commercial partnership,
+ Baidu,,Tesla partnership, Commercial partnership,
+ Baidu,,Amazon collaboration, Commercial partnership,
+ Baidu, Internet,Atomwise, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Engine Biosciences, Investment or joint venture, Biotech
+ Baidu, Internet,Baidu Ventures, Investment or joint venture,
+ Baidu, Internet,Velodyne Lidar, Investment or joint venture,
+ Baidu, Internet,Uber, Investment or joint venture,
+ Baidu, Internet,Lightelligence Inc, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Strateos , Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Quantapore, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Probius Dx, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Rain Neuromorphics, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,CubeWorks, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,RootPath Genomics, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Lunewave, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Jeeva Wireless, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Avail, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,AutomationHero, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Snark, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Sherlock, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Zensors, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,"Veo Robotics, Inc.", Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,"Simple Machines, Inc.", Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Kebotix, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,DeepBiome Therapeutics, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Near Protocol, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Correlia Biosystems, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Cornami, Investment or joint venture, Artificial Intelligence
+ Baidu, Internet,Coral Genomics, Investment or joint venture, Artificial Intelligence
+ Baidu,,TrustGo acquisition, Investment or joint venture,
+ Baidu,,BlackRock Inc., Investor,
+ Baidu,,Renaissance Technologies Corp, Investor,
+ Baidu,,Integrity Partners Inc., Investor,
+ Baidu,,Peninsula Capital, Investor,
+ Baidu, Internet,Baidu Lab, Overseas Office,
+ Baidu, Internet,Baidu Lab, Overseas Office,
+ Baidu,,Sidley Austin LLP, PR or lobbying,
+ Baidu, Internet,Comet Labs, Research partnership, Artificial Intelligence
+ Baidu, Internet,xPerception, Subsidiary, Artificial Intelligence
+ Baidu, Internet,Baidu Venture office, Subsidiary,
+ Baidu, Internet,US subsidiary, Subsidiary,
+ Baidu, Internet,Partnership on AI,, Artificial Intelligence
+ China Telecom, Telecommunications,CyrusOne Sterling, Data centre,
+ China Telecom, Telecommunications,Cyxtera SC8, Data centre,
+ China Telecom, Telecommunications,CyrusOne, Data centre,
+ China Telecom, Telecommunications,Equinix SV3, Data centre,
+ China Telecom, Telecommunications,Digital Realty, Data centre,
+ China Telecom, Telecommunications,Cyxtera LA1, Data centre,
+ China Telecom, Telecommunications,Equinix LA3, Data centre,
+ China Telecom, Telecommunications,Equinix NY8, Data centre,
+ China Telecom, Telecommunications,Equinix LA4, Data centre,
+ China Telecom, Telecommunications,Equinix DC12, Data centre,
+ China Telecom, Telecommunications,Equinix NY1, Data centre,
+ China Telecom, Telecommunications,Telehouse Teleport, Data centre,
+ China Telecom, Telecommunications,Equinix LA2, Data centre,
+ China Telecom, Telecommunications,PhoenixNAP, Data centre,
+ China Telecom, Telecommunications,Telehouse Chelsea, Data centre,
+ China Telecom, Telecommunications,"Cyxtera SC4, SC5, SC9", Data centre,
+ China Telecom, Telecommunications,Coresite LA2, Data centre,
+ China Telecom, Telecommunications,Coresite DE1, Data centre,
+ China Telecom, Telecommunications,Viawest PRT1, Data centre,
+ China Telecom, Telecommunications,Equinix SV8, Data centre,
+ China Telecom, Telecommunications,Equinix DA3, Data centre,
+ China Telecom, Telecommunications,Digital Realty CHI1, Data centre,
+ China Telecom, Telecommunications,Zayo zColo, Data centre,
+ China Telecom, Telecommunications,CME Group Aurora, Data centre,
+ China Telecom, Telecommunications,Equinix MI1, Data centre,
+ China Telecom, Telecommunications,Equinix SE2, Data centre, Cloud
+ China Telecom, Telecommunications,QTS SC2, Data centre,
+ China Telecom, Telecommunications,Coresite SV7, Data centre,
+ China Telecom, Telecommunications,Digital Realty NYC1, Data centre,
+ China Telecom, Telecommunications,Equinix LA1, Data centre,
+ China Telecom, Telecommunications,Digital Realty LOS1, Data centre,
+ China Telecom, Telecommunications,Coresite LA1, Data centre,
+ China Telecom, Telecommunications,"Equinix DC2, DC11", Data centre, Cloud
+ China Telecom, Telecommunications,"Equinix SV1, SV5", Data centre, Cloud
+ China Telecom, Telecommunications,Global Network Operations Center (NOC), Data centre,
+ China Telecom,,George Mason University Foundation, Donation, Covid-19
+ China Telecom,,China Telecom and the China General Chamber of Commerce donate medical supplies to the United States, Health, Covid-19
+ China Telecom, Telecommunications,China Telecom (Americas) Corporation headquarters, Overseas Office,
+ China Telecom, Telecommunications,Midwest Region Sales Headquarters, Overseas Office,
+ China Telecom, Telecommunications,Midwest Region Sales Office, Overseas Office,
+ China Telecom, Telecommunications,East Region Sales Office, Overseas Office,
+ China Telecom, Telecommunications,West Region Sales Office, Overseas Office,
+ China Telecom,,Lobbying, PR or lobbying,
+ China Telecom,,Ogilvy Group, PR or lobbying,
+ China Telecom,,Levick Communications, PR or lobbying,
+ DJI, Technology,Microsoft, Commercial partnership, Artificial Intelligence
+ DJI, Technology,"FLIR Systems, Inc.", Commercial partnership,
+ DJI, Technology,Axon, Commercial partnership,
+ DJI, Technology,Skycatch, Commercial partnership,
+ DJI, Technology,Measure, Commercial partnership,
+ DJI, Technology,PrecisionHawk Inc., Commercial partnership,
+ DJI, Technology,Apple Inc., Commercial partnership,
+ DJI, Technology,Marvel, Commercial partnership,
+ DJI, Technology,Aerial Influence, Commercial partnership,
+ DJI, Technology,Blue Skies Drones, Commercial partnership,
+ DJI, Technology,BOTACH, Commercial partnership,
+ DJI, Technology,Camrise / DJI Experience Store Broadway - Enterprise, Commercial partnership,
+ DJI, Technology,Cloud City Drones LLC USA, Commercial partnership,
+ DJI, Technology,CompassDrone, Commercial partnership,
+ DJI, Technology,DJI Customer Experience Store - New Jersey, Commercial partnership,
+ DJI, Technology,Drone Nerds Enterprise, Commercial partnership,
+ DJI, Technology,Drones Made Easy, Commercial partnership,
+ DJI, Technology,Empire Drone Company, Commercial partnership,
+ DJI, Technology,Empire Hobby, Commercial partnership,
+ DJI, Technology,Fire Cam, Commercial partnership,
+ DJI, Technology,Fix In a Zip LLC, Commercial partnership,
+ DJI, Technology,FlyHighUSA, Commercial partnership,
+ DJI, Technology,FLYMOTION Unmanned Systems, Commercial partnership,
+ DJI, Technology,General Pacific, Commercial partnership,
+ DJI, Technology,Go Unmanned, Commercial partnership,
+ DJI, Technology,Gresco Utility Supply-Enterprise, Commercial partnership,
+ DJI, Technology,Hawaii UAV Service LLC, Commercial partnership,
+ DJI, Technology,Ideal Blasting Supply, Commercial partnership,
+ DJI, Technology,Innovative UAS, Commercial partnership,
+ DJI, Technology,Maverick Drone Systems, Commercial partnership,
+ DJI, Technology,Multicopter Warehouse, Commercial partnership,
+ DJI, Technology,"RMUS,LLC", Commercial partnership,
+ DJI, Technology,Safeware Inc, Commercial partnership,
+ DJI, Technology,Uav Experts.aero, Commercial partnership,
+ DJI, Technology,Unmanned Vehicle Technologies, Commercial partnership,
+ DJI, Technology,W.S. Darley, Commercial partnership,
+ DJI,,donation to the Daytona Beach Police Department, Donation, Covid-19
+ DJI,,donation to the Battle Creek Police Department, Donation, Covid-19
+ DJI,,donation to the Kent County Sheriff Department, Donation, Covid-19
+ DJI,,donation to the Bloomfield Township Fire Department, Donation, Covid-19
+ DJI,,donation to the Elizabeth NJ Police Department, Donation, Covid-19
+ DJI,,donation to the Calvert County Sheriff’s Office, Donation, Covid-19
+ DJI,,donation to the Chula Vista Police Department, Donation, Covid-19
+ DJI,,donation to the Georgetown County Sheriff's Office, Donation, Covid-19
+ DJI, Technology,Accel Partners, Investment or joint venture,
+ DJI, Technology,Marketing and Policy office, Overseas Office,
+ DJI, Technology,Marketing and Policy office, Overseas Office,
+ DJI, Technology,DJI Palo Alto Office, Overseas Office,
+ DJI, Technology,DJI Cerritos Office, Overseas Office,
+ DJI, Technology,DJI Creative Studio LLC, Overseas Office,
+ DJI, Technology,DJI Los Angeles Office, Overseas Office,
+ DJI,,Shell Deer Park aerial inspections, Security inspection equipment,
+ DJI, Technology,Los Angeles Fire Department , Surveillance equipment, Surveillance
+ DJI, Technology,Fremont Fire Department , Surveillance equipment, Surveillance
+ DJI, Technology,US Navy, Surveillance equipment, Surveillance
+ DJI, Technology,US Air Force, Surveillance equipment, Surveillance
+ DJI, Technology,United States Department of the Interior, Surveillance equipment, Surveillance
+ DJI, Technology,Use of DJI drones to support maintenance of critical infrastructure, Surveillance equipment, Surveillance
+ Huawei,,Huawei and Intel jointly launch a new product, Commercial partnership, 5G
+ Huawei,,Xpress Money partnership, Commercial partnership,
+ Huawei, Telecommunications,Princeton University, Donation,
+ Huawei, Telecommunications,Ohio State University, Donation,
+ Huawei, Telecommunications,Booking Holdings, Investment or joint venture,
+ Huawei, Telecommunications,Veritas, MoU-agreement, Artificial Intelligence
+ Huawei, Telecommunications,Huawei Enterprise USA, Overseas Office,
+ Huawei, Telecommunications,Futurewei Dallas Research Center, Overseas Office,
+ Huawei,,Futurewei Boston Research Center, Overseas Office,
+ Huawei,,Futurewei Chicago Office, Overseas Office,
+ Huawei,,Futurewei Seattle Research Center, Overseas Office,
+ Huawei,,Futurewei Silicon Valley Research Center, Overseas Office,
+ Huawei,,Futurewei New Jersey Research Center, Overseas Office,
+ Huawei,,Futurewei North Carolina Office, Overseas Office,
+ Huawei,,Futurewei Austin Office, Overseas Office,
+ Huawei,,Federal Advocates Inc, PR or lobbying,
+ Huawei,,Squire Patton Boggs, PR or lobbying,
+ Huawei,,Steptoe & Johnson LLP, PR or lobbying,
+ Huawei,,Jones Day, PR or lobbying,
+ Huawei,,APCO Worldwide, PR or lobbying,
+ Huawei, Telecommunications,Keysight, R&D lab, 5G
+ Huawei, Telecommunications,Huawei University of Illinois Research Park center, R&D lab,
+ Huawei, Telecommunications,Futurewei New Jersey Research Center , R&D lab,
+ Huawei, Telecommunications,Futurewei, R&D lab, Artificial Intelligence
+ Huawei, Telecommunications,Futurewei San Diego Research Center, R&D lab, Artificial Intelligence
+ Huawei, Telecommunications,Futurewei Chicago Office , R&D lab, Artificial Intelligence
+ Huawei, Telecommunications,Futurewei North Carolina Research Center, R&D lab,
+ Huawei, Telecommunications,Futurewei Seattle Research Center, R&D lab,
+ Huawei, Telecommunications,UC Berkeley, Research partnership,
+ Huawei, Telecommunications,UCLA, Research partnership,
+ Huawei, Telecommunications,University of Illinois at Urbana-Champaign, Research partnership,
+ Huawei, Telecommunications,Massachusetts Institute of Technology, Research partnership,
+ Huawei, Telecommunications,UC Berkeley, Research partnership,
+ Huawei, Telecommunications,Washington University in St. Louis, Research partnership,
+ Huawei, Telecommunications,Virginia Polytechnic Institute and State University, Research partnership,
+ Huawei, Telecommunications,Huawei funding to Brookings Institution , Research partnership, Smart cities
+ Huawei, Telecommunications,Peterson Institute for International Economics, Research partnership,
+ Huawei, Telecommunications,Massachusetts Institute of Technology, Research partnership,
+ Huawei, Telecommunications,Cornell University, Research partnership,
+ Huawei, Telecommunications,Yale University , Research partnership,
+ Huawei, Telecommunications,Carnegie Mellon University, Research partnership,
+ Huawei, Telecommunications,Harvard University, Research partnership,
+ Huawei, Telecommunications,University of Chicago, Research partnership,
+ Huawei, Telecommunications,Princeton University, Research partnership,
+ Huawei, Telecommunications,Stanford University, Research partnership,
+ Huawei, Telecommunications,UT Austin, Research partnership,
+ Huawei, Telecommunications,University of Michigan, Research partnership,
+ Huawei, Telecommunications,University of Maryland, Research partnership,
+ Huawei, Telecommunications,North Carolina State University, Research partnership,
+ Huawei, Telecommunications,New York University, Research partnership,
+ Huawei, Telecommunications,University of Minnesota, Research partnership,
+ Huawei, Telecommunications,United States Seeds for the Future, Research partnership,
+ Huawei, Telecommunications,Massachusetts Institute of Technology, Research partnership,
+ Huawei, Telecommunications,University of South Carolina, Research partnership,
+ Huawei, Telecommunications,University of Washington , Research partnership,
+ Huawei, Telecommunications,University of Alabama, Research partnership,
+ Huawei, Telecommunications,University of Rhode Island, Research partnership,
+ Huawei, Telecommunications,Penn State University, Research partnership,
+ Huawei, Telecommunications,George Mason University, Research partnership,
+ Huawei, Telecommunications,Stanford University, Research partnership,
+ Huawei, Telecommunications,University of Nebraska Omaha, Research partnership,
+ Huawei, Telecommunications,University of Kansas, Research partnership,
+ Huawei, Telecommunications,Carnegie Mellon University, Research partnership,
+ Huawei, Telecommunications,Research funding, Research partnership,
+ Huawei,,Northern Michigan University, Telecommunications or ICT,
+ Huawei, Telecommunications,University of Illinois at Urbana-Champaign,,
+ Huawei, Telecommunications,Massachusetts Institute of Technology,,
+ WuXi AppTec Group, Biotech,Pharmapace, Health,
+ WuXi AppTec Group,,Mission Bay Capital, Health,
+ WuXi AppTec Group,,Invetx, Health, Biotech
+ WuXi AppTec Group,,Covid-19 research alliance, Health, Biotech
+ WuXi AppTec Group,,Vir Biotechnology collaboration, Health, Biotech
+ WuXi AppTec Group,,Aravive collaboration, Health, Biotech
+ WuXi AppTec Group,,WuXi Biologics clinical manufacturing facility, Health, Biotech
+ WuXi AppTec Group,,WuXi Biologics development lab, Health, Biotech
+ WuXi AppTec Group,,WuXi Biologics clinical and commercial facility, Health, Biotech
+ WuXi AppTec Group,,Lyell Immunopharma, Health,
+ WuXi AppTec Group,,Arcus Biosciences agreement, Health, Biotech
+ WuXi AppTec Group,,WuXi Advanced Therapies, Health,
+ WuXi AppTec Group, Biotech,Joint Venture with Schrödinger , Investment or joint venture, Biotech
+ WuXi AppTec Group, Biotech,"Refuge Biotechnologies, Inc.", Investment or joint venture, Biotech
+ WuXi AppTec Group, Biotech,Vivace Therapeutics, Investment or joint venture,
+ WuXi AppTec Group, Biotech,"UNITY Biotechnology, Inc", Investment or joint venture, Biotech
+ WuXi AppTec Group, Biotech,Medeor Therapeutics, Investment or joint venture, Biotech
+ WuXi AppTec Group, Biotech,LifeMine Therapeutics, Investment or joint venture,
+ WuXi AppTec Group, Biotech,"Ivenix, Inc.", Investment or joint venture,
+ WuXi AppTec Group, Biotech,Investment in Twist Bioscience, Investment or joint venture,
+ WuXi AppTec Group, Biotech,Investment in 23andMe, Investment or joint venture, Biotech
+ WuXi AppTec Group, Biotech,Syros Pharmaceuticals, Investment or joint venture,
+ WuXi AppTec Group,,WuXi Diagnostics, Investment or joint venture,
+ WuXi AppTec Group,,Quanterix joint lab, Investment or joint venture, Biotech
+ WuXi AppTec Group,,Thermo Fisher Scientific, Investor,
+ WuXi AppTec Group,,Sunland Capital, Investor,
+ WuXi AppTec Group, Biotech,WuXi AppTec, Manufacturing facility,
+ WuXi AppTec Group, Biotech,Wuxi Biologics, Manufacturing facility, Biotech
+ WuXi AppTec Group, Biotech,WuXi AppTec St. Paul Facility, Overseas Office, Biotech
+ WuXi AppTec Group, Biotech,Wuxi AppTec Atlanta, Overseas Office, Biotech
+ WuXi AppTec Group, Biotech,WuXi AppTec / XenoBiotic Laboratories, Overseas Office, Biotech
+ WuXi AppTec Group, Biotech,WuXi AppTec Boston office, Overseas Office, Biotech
+ WuXi AppTec Group, Biotech,WuXi AppTec / ResearchPoint Global Austin Facility, Overseas Office, Biotech
+ WuXi AppTec Group, Biotech,Biology services and bioanalytical services, Overseas Office, Biotech
+ WuXi AppTec Group,,WuXi Clinical, Overseas Office,
+ WuXi AppTec Group, Biotech,WuXi AppTec’s STA Subsidiary Opens Operations in San Diego, R&D lab,
+ WuXi AppTec Group, Biotech,"STA Pharmaceutical Co., Ltd", R&D lab,
+ WuXi AppTec Group, Biotech,University of Pennsylvania Collaboration, Research partnership,
+ WuXi AppTec Group, Biotech,CRO XenoBiotic Laboratories  acquisition, Subsidiary, Biotech
+ WuXi AppTec Group, Biotech,Abgent acquisition, Subsidiary,
+ WuXi AppTec Group, Biotech,Overseas acquisition, Subsidiary,
+ WuXi AppTec Group, Biotech,AppTec acquisition, Subsidiary,
+ WuXi AppTec Group, Biotech,"WuXi Biologics USA, LLC", Subsidiary, Biotech
+ WuXi AppTec Group, Biotech,ResearchPoint Corporation, Subsidiary, Biotech
+ WuXi AppTec Group, Biotech,"XenoBiotic Laboratories, Inc. (XBL)", Subsidiary, Biotech
+ WuXi AppTec Group, Biotech,ResearchPoint Global (RPG) acquisition, Subsidiary, Biotech
+ WuXi AppTec Group,,"Pharmapace, Inc. acquisition", Subsidiary,
